@@ -1,0 +1,85 @@
+* {
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+	color: #eee;
+	background: #eee;
+}
+
+main {
+
+}
+
+section {
+
+}
+
+article {
+
+}
+
+a {
+	color: inherit;
+	text-decoration: inherit;
+}
+
+hr {
+	background: #fff;
+}
+
+.site-header {
+	background: #111;
+	padding: 20px;
+	margin-bottom: 20px;
+}
+
+.site-footer {
+	background: #111;
+	padding: 20px;
+	text-align: center;
+}
+
+.card-border-success {
+	border: 5px solid #5cb85c; 
+	border-radius: 5px;
+}
+
+.card-border-primary {
+	border: 5px solid #0275d8; 
+	border-radius: 5px;
+}
+
+.card-border-info {
+	border: 5px solid #5bc0de;
+	border-radius: 5px;
+}
+
+.card-border-danger {
+	border: 5px solid #d9534f;
+	border-radius: 5px;
+}
+
+.card-border-warning {
+	border: 5px solid #f0ad4e;
+	border-radius: 5px;
+}
+
+.jumbotron-fluid {
+	padding: 20px;
+	overflow: auto;
+}
+
+#text-user {
+	color: #00ff00
+}
+
+#text-directory {
+	color: #008080
+}
+
+#text-clear {
+	color: #f0f0f0
+}
