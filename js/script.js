@@ -15,7 +15,7 @@ function onYouTubeIframeAPIReady() {
   player = new YT.Player('player', {
     height: '315',
     width: '420',
-    videoId: vids[Math.floor(Math.random()*vids.length)],
+    videoId: "IvUU8joBb1Q", //vids[Math.floor(Math.random()*vids.length)],
     events: {
       'onReady': onPlayerReady,
       'onStateChange': onPlayerStateChange
